@@ -1,5 +1,5 @@
 {
-  "name": "webdiff",
+  "name": "website-diff",
   "version": "1.0.0",
   "description": "Visualize differences in local server's website from Git commits.",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "node index.js http://localhost:5000 http://localhost:5001"
   },
   "bin": {
-    "webdiff": "index.js"
+    "website-diff": "index.js"
   },
   "repository": {
     "type": "git",

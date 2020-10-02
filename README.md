@@ -6,15 +6,15 @@ Visualize differences in local server's website from Git commits.
 ## Installation
 
 ```bash
-$ npm install -g webdiff
+$ npm install -g website-diff
 ```
 
 ## Usage
 
-$ webdiff [latest website URL] [old website URL]
+$ website-diff [latest website URL] [old website URL]
 
 ### Example
 
 ```bash
-$ webdiff http://localhost:5000 http://example.com
+$ website-diff http://localhost:5000 http://example.com
 ```

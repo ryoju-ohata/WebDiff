@@ -59,19 +59,19 @@ if (!gitHash || !url) {
 
   const compositeParams = [
     {
-      input: './img/latest.png',
+      input: __dirname + '/img/latest.png',
       gravity: "northwest",
       left: 0,
       top: 0
     },
     {
-      input: './img/diff.png',
+      input: __dirname + '/img/diff.png',
       gravity: "northwest",
       left: width,
       top: 0
     },
     {
-      input: './img/old.png',
+      input: __dirname + '/img/old.png',
       gravity: "northwest",
       left: width * 2,
       top: 0
