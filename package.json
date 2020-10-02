@@ -1,7 +1,7 @@
 {
   "name": "website-diff",
   "version": "1.2.0",
-  "description": "Visualize differences in local server's website from Git commits.",
+  "description": "Visualize the differences from screenshots taken from latest and old website URL.",
   "main": "index.js",
   "scripts": {
     "testServer": "http-server ./test/latest -p 5000",
