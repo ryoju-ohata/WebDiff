@@ -1,5 +1,6 @@
 # WebDiff
-Visualize differences in local server's website from Git commits.
+
+Visualize the differences from screenshots taken from latest and old website URL.
 
 <img src="https://github.com/ryoju-ohata/WebDiff/blob/main/diff.png?raw=true">
 
